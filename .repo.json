@@ -1,0 +1,6 @@
+{
+  "name": "muslim-app",
+  "description": "Muslim: an offline Islamic companion app built with Flutter. Quran PDF reader with bookmarks, azkar, duas, hadiths, prophets' stories, tasbeeh, Hijri calendar, on-device prayer times and a Qibla compass. Published on Google Play as com.anashaker.islam. Your daily Islamic essentials, offline",
+  "topics": ["flutter", "dart", "islamic-app", "quran", "prayer-times", "qibla", "azkar", "offline-first", "arabic", "android"],
+  "homepage": null
+}

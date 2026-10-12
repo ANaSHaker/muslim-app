@@ -1,0 +1,44 @@
+{
+  "outDir": "..",
+  "brand": {
+    "name": "Muslim",
+    "tagline": "Quran, azkar, duas, prayer times and Qibla in one offline Flutter app.",
+    "accent": "#7C4DDB",
+    "accent2": "#E3B64C",
+    "logo": "logo.png",
+    "dark": true
+  },
+  "images": [
+    {
+      "type": "banner",
+      "file": "banner.png",
+      "kicker": "Flutter · Open source · 2020",
+      "subtitle": "Quran, azkar, duas, prophets' stories, prayer times and a Qibla compass, all in one Arabic app.",
+      "screens": ["screens/02.jpg", "screens/07.jpg", "screens/05.jpg"],
+      "devices": ["android", "android", "android"],
+      "chips": ["Flutter", "Offline-first", "Qibla compass", "Hijri calendar", "Arabic"]
+    },
+    {
+      "type": "gallery",
+      "file": "screens.png",
+      "title": "Everything a Muslim needs, day to day",
+      "screens": ["screens/07.jpg", "screens/02.jpg", "screens/04.jpg", "screens/05.jpg", "screens/01.jpg", "screens/08.jpg"],
+      "device": "android",
+      "cols": 6
+    },
+    {
+      "type": "feature",
+      "file": "feature-offline.png",
+      "kicker": "Signature feature",
+      "title": "Works with no internet",
+      "points": [
+        "Full Mushaf bundled as a PDF with a searchable surah index",
+        "Resumes at the last page read and keeps a bookmark",
+        "Prayer times calculated on the device (PrayTimes method)",
+        "Azkar, duas and stories ship inside the app"
+      ],
+      "screens": ["screens/02.jpg", "screens/05.jpg"],
+      "devices": ["android", "android"]
+    }
+  ]
+}
